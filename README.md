@@ -8,7 +8,7 @@
 <br>
 ✉️ - Endereço EXCLUSIVO para contratação de serviços: raylan.gig@gmail.com.
 
-[![Container WEB View]([https://github.com/user-attachments/assets/4868c2cf-a08a-420f-bbdd-1ca1fe63e52f](https://github.com/rayl4n/GTM-MASTER-CONTAIENRS-V4/issues/1#issue-3202349189))](https://github.com/rayl4n/GTM-MASTER-CONTAIENRS-V4/issues/1#issue-3202349189)
+[![Container WEB View]([https://github.com/user-attachments/assets/4868c2cf-a08a-420f-bbdd-1ca1fe63e52f](https://github.com/rayl4n/GTM-MASTER-CONTAIENRS-V4/issues/1#issue-3202349189))]
 
 # Basic Info
 
